@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/OhimaLogoScene.unity
+    guid: b9eaab5483af8884bbb9e2c925a5722b
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 3bc78f8ce30f51741a400a49c3e4c4b8
+  - enabled: 1
+    path: Assets/Scenes/OhimaLoad.unity
+    guid: ac97e8717741b9644a06429120409d26
+  - enabled: 1
+    path: Assets/Scenes/PauseMenu.unity
+    guid: bfa0be0f92cba634aaeba634e834a255
+  - enabled: 1
+    path: Assets/Scenes/TapeDeckMenu.unity
+    guid: 6f322e0d0b537474095ea7f6c85f26a6
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 257f9d089f191124cbca9c1cf7886185
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: b9c0449410b56e74ea46e5db220e9f2b
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: 2e7f0d84722591d48ba46429b0ecd842
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 876fd6a7551da2941ace6c92366cdc83
+  - enabled: 1
+    path: Assets/Scenes/Complete.unity
+    guid: 61f8402023a61054893afd80965917e5
+  - enabled: 1
+    path: Assets/Scenes/ThankYou.unity
+    guid: d64e6de211018894c87614f32ac1e8c0
+  m_configObjects: {}
